@@ -4,7 +4,6 @@ mkdir ../temp
 cp *.pdf ../temp
 cp *.tex ../temp
 cp *.bib ../temp 2>>/dev/null
-cp -R .vscode ../temp
 
 rm -f *.aux
 rm -f *.fdb_latexmk
